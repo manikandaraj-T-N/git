@@ -4,4 +4,8 @@ public class PetrolEngine
 	{
 		System.out.println("pE is Started")
 	}
+	public void stop()
+	{
+		System.out.println("pE is stopped")
+	}
 }

@@ -6,5 +6,8 @@ public static void main(Strings[] args) {
 	pE.start();
 	 DiselEngine pE = new DiselEngine;
 		dE.start();
+		
+		pE.stop();
+		dE.stop();
 }
 }
