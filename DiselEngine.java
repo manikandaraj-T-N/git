@@ -8,4 +8,9 @@ public class DiselEngine
 	{
 		System.out.println("dE is stopped")
 	}
+	
+	public void makesound()
+	{
+		System.out.println("dE is buff buff")
+	}
 }

@@ -9,5 +9,7 @@ public static void main(Strings[] args) {
 		
 		pE.stop();
 		dE.stop();
+		dE.makesound();
+		
 }
 }
