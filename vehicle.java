@@ -1,10 +1,10 @@
 public class vehicle
 {
-	private PetrolEngine pE;
+	
 	
 public static void main(Strings[] args) {
 	System.out.println("Hello");
-	
+	 PetrolEngine pE = new PetrolEngine;
 	pE.start();
 }
 }
